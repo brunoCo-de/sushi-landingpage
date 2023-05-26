@@ -1,14 +1,14 @@
-# 🍣SushiFan Landing Page 🍣
+# 🍣 SushiFan Landing Page 🍣
 
 Ce projet est une page d'accueil pour SushiFan, un restaurant de sushis fictif. La page de destination est conçue pour mettre en valeur les offres du restaurant et attirer de potentiels clients.
 
-## Technologies utilisées
+## 🖥️ Technologies utilisées
 
 - HTML
 - CSS
 - JavaScript
 
-## Fonctionnalités
+## ⚙️ Fonctionnalités
 
 - **Design Responsive** : La page de destination est conçue avec un design responsive, garantissant un rendu et un fonctionnement optimal sur différents appareils et tailles d'écran.
 
@@ -20,7 +20,7 @@ Ce projet est une page d'accueil pour SushiFan, un restaurant de sushis fictif. 
 
 - **Formulaire de contact** : Un formulaire de contact est inclus pour permettre aux utilisateurs de prendre contact avec le restaurant.
 
-## Pour commencer
+## 🏁 Pour commencer
 
 Pour exécuter ce projet localement, suivez ces étapes :
 
@@ -29,6 +29,6 @@ Pour exécuter ce projet localement, suivez ces étapes :
 3. Tapez la commande npm install pour installer toutes les dépendences (package)
 4. Tapez npm run dev et cliquez sur le lien en direction de la page
 
-## Remerciements
+## 🩵 Remerciements
 
-Un grand merci à [JS Mastery](https://www.jsmastery.pro/) 🩵 pour la formation.
+Un grand merci à [JS Mastery](https://www.jsmastery.pro/) pour la formation.
