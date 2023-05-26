@@ -1,4 +1,4 @@
-# 🍣 SushiFan Landing Page 🍣
+# 🍣 SushiFan Landing Page 
 
 Ce projet est une page d'accueil pour SushiFan, un restaurant de sushis fictif. La page de destination est conçue pour mettre en valeur les offres du restaurant et attirer de potentiels clients.
 
@@ -28,6 +28,10 @@ Pour exécuter ce projet localement, suivez ces étapes :
 2. Accédez au répertoire du projet : `cd sushi-landing-page`
 3. Tapez la commande npm install pour installer toutes les dépendences (package)
 4. Tapez npm run dev et cliquez sur le lien en direction de la page
+
+## 🚀 Lien du site déployé
+
+[壽司 - SUSHIFAN](https://6470ec1fd295880084203ece--radiant-gnome-8dca99.netlify.app/)
 
 ## 🩵 Remerciements
 
