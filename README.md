@@ -1,4 +1,4 @@
-# SushiFan Landing Page
+# 🍣SushiFan Landing Page 🍣
 
 Ce projet est une page d'accueil pour SushiFan, un restaurant de sushis fictif. La page de destination est conçue pour mettre en valeur les offres du restaurant et attirer de potentiels clients.
 
