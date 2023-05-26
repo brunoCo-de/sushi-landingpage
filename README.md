@@ -31,4 +31,4 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 ## Remerciements
 
-Un grand merci à l[JS Mastery](https://www.jsmastery.pro/) 🩵 pour la formation.
+Un grand merci à [JS Mastery](https://www.jsmastery.pro/) 🩵 pour la formation.
