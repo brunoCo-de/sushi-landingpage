@@ -25,7 +25,7 @@ Ce projet est une page d'accueil pour SushiFan, un restaurant de sushis fictif. 
 Pour exécuter ce projet localement, suivez ces étapes :
 
 1. Clonez le dépôt : `git clone https://github.com/brunoCo-de/sushi-landingpage.git` 
-2. Accédez au répertoire du projet : `cd sushifan-landing-page`
+2. Accédez au répertoire du projet : `cd sushi-landing-page`
 3. Tapez la commande npm install pour installer toutes les dépendences (package)
 4. Tapez npm run dev et cliquez sur le lien en direction de la page
 
